@@ -1,42 +1,17 @@
 # Flutter-Spotify
 
-## [Watch it on Youtube](https://www.youtube.com/channel/UCM1OzZsZ5FQIg01vdKGAw7g)
 
-Spotify Ui Design
 
-In this repository contains Redesinged Spotify App using Flutter.
 
 ## Screenshots
+<p align="center">
 
-| Welcome Screen  | Login Screen |
-| ------------- | ------------- |
-| ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-10 at 19 55 35](https://user-images.githubusercontent.com/14290499/201520387-8715ee0e-f689-44fe-ac4b-cae6505f0dda.png)  | ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-10 at 21 38 59](https://user-images.githubusercontent.com/14290499/201520398-edf21842-e948-44a5-a8b7-02b15e3ea0f7.png)  |
-| Home Screen | Search Screen |
-| ![Simulator Screen Shot - iPhone 14 - 2023-01-07 at 10 04 20](https://user-images.githubusercontent.com/14290499/211138790-b4ca340d-17c0-43d4-bb22-816af8a9b165.png) |![Simulator Screen Shot - iPhone 14 - 2023-01-07 at 10 04 36](https://user-images.githubusercontent.com/14290499/211138794-b5c1f0d5-cdfa-4bb8-b8aa-8c3344b4ed74.png)
-| More Screen | |
-|  ![Simulator Screen Shot - iPhone 14 - 2023-01-07 at 10 04 29](https://user-images.githubusercontent.com/14290499/211138888-c7383c23-c54f-49e4-afc3-86f8d6bfd555.png)
+  <img src="https://user-images.githubusercontent.com/68896404/211239148-358216c0-4698-44c0-b908-92fdbc3c8edb.jpg" width="250">
+  <img src="https://user-images.githubusercontent.com/68896404/211239165-1bca3c3f-6239-4b2e-845f-a2d21a45527f.jpg" width="250">
 
-## Pull Requests
-
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
-
-
-## Created & Maintained By
-
-- [Instagram](https://www.instagram.com/faiz.rhm)
-- [Youtube Channel](https://www.youtube.com/channel/UCM1OzZsZ5FQIg01vdKGAw7g)
-- [Twitter](https://twitter.com/faiz_rhm)
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img src="https://user-images.githubusercontent.com/68896404/211239167-350d947f-7651-4249-b906-7f740c46d910.jpg" width="250">
+   <img src="https://user-images.githubusercontent.com/68896404/211239193-9076b84e-7ee2-4022-96b2-82974d984c22.jpg" width="250">
+    <img src="https://user-images.githubusercontent.com/68896404/211239198-e39d62c8-65b4-4d19-a86a-c9e23a6b50d5.jpg" width="250">
+  </p>
+  
+ 
